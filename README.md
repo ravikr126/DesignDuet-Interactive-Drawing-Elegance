@@ -37,3 +37,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 #libraries used
 1.Fabric.js
+
+installing
+1. Next.js
+2. typescript 
+3. ESLint
+4. Tailwind css
+5. App router 5.

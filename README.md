@@ -1,1 +1,0 @@
-# DesignDuet-Interactive-Drawing-Elegance

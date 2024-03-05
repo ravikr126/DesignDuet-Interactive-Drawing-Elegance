@@ -36,11 +36,18 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 #libraries used
-1.Fabric.js
+1. Fabric.js
+2. uuid
 
 installing
+
 1. Next.js
-2. typescript 
+2. typescript
 3. ESLint
 4. Tailwind css
 5. App router 5.
+
+Technology used
+
+1. Liveblocks
+2. 

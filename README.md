@@ -46,8 +46,12 @@ installing
 3. ESLint
 4. Tailwind css
 5. App router 5.
+6. Shadcn UI
 
 Technology used
 
 1. Liveblocks
 2. 
+
+
+Create .env.local file for public key api (livestock API) storage

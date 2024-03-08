@@ -36,6 +36,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 #libraries used
+
 1. Fabric.js
 2. uuid
 
@@ -47,11 +48,11 @@ installing
 4. Tailwind css
 5. App router 5.
 6. Shadcn UI
+7. Radix UI
 
-Technology used
+   Technology used
 
 1. Liveblocks
 2. 
-
 
 Create .env.local file for public key api (livestock API) storage

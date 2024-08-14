@@ -31,29 +31,29 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
   
 ## <a name="features">🌟 Features</a>
 
-🚀 **Multi Cursors, Cursor Chat, and Reactions**: Allows multiple users to collaborate simultaneously by showing individual cursors, enabling real-time chat, and reactions for interactive communication.
+🚀 Real-Time Collaboration: Seamlessly collaborate with multiple users by displaying individual cursors, enabling instant chat, and interactive reactions, making teamwork more dynamic and engaging.
 
-🚀 **Active Users**: Displays a list of currently active users in the collaborative environment, providing visibility into who is currently engaged.
+🚀 Active User Tracking: Stay informed with a real-time list of active participants, giving you instant visibility into who is contributing and engaged in the collaborative environment.
 
-🚀 **Comment Bubbles**: Enables users to attach comments to specific elements on the canvas, fostering communication and feedback on design components.
+🚀 Contextual Commenting: Boost communication with the ability to attach comments directly to specific canvas elements, making feedback precise and relevant.
 
-🚀 **Creating Different Shapes**: Provides tools for users to generate a variety of shapes on the canvas, allowing for diverse design elements
+🚀 Versatile Shape Creation: Unleash creativity with a robust set of tools to generate a wide array of shapes, empowering users to craft diverse and intricate designs.
 
-🚀 **Uploading Images**: Import images onto the canvas, expanding the range of visual content in the design
+🚀 Image Integration: Elevate your canvas by importing images, enriching the visual narrative with a broader range of content and artistic possibilities.
 
-🚀 **Customization**: Allows users to adjust the properties of design elements, offering flexibility in customizing and fine-tuning visual components
+🚀 Dynamic Customization: Tailor design elements to your exact needs with flexible customization options, ensuring every detail is perfectly aligned with your vision.
 
-🚀 **Freeform Drawing**: Enables users to draw freely on the canvas, promoting artistic expression and creative design.
+🚀 Expressive Freeform Drawing: Let your imagination run wild with freeform drawing capabilities, offering limitless possibilities for artistic expression and creative design.
 
-🚀 **Undo/Redo**: Provides the ability to reverse (undo) or restore (redo) previous actions, offering flexibility in design decision-making
+🚀 Instant Undo/Redo: Navigate your design journey with ease, thanks to the ability to instantly reverse or restore actions, giving you the freedom to experiment without fear.
 
-🚀 **Keyboard Actions**: Allows users to utilize keyboard shortcuts for various actions, including copying, pasting, deleting, and triggering shortcuts for features like opening cursor chat, reactions, and more, enhancing efficiency and accessibility.
+🚀 Efficient Keyboard Shortcuts: Maximize productivity with intuitive keyboard shortcuts for a range of actions, from basic editing to triggering advanced features like cursor chat and reactions.
 
-🚀 **History**: Review the chronological history of actions and changes made on the canvas, aiding in project management and version control.
+🚀 Comprehensive Action History: Keep track of every change with a detailed chronological history, providing a clear overview for project management and version control.
 
-🚀 **Deleting, Scaling, Moving, Clearing, Exporting Canvas**: Offers a range of functions for managing design elements, including deletion, scaling, moving, clearing the canvas, and exporting the final design for external use.
+🚀 Advanced Canvas Management: Take full control of your design with powerful functions for deleting, scaling, moving, clearing, and exporting the canvas, ensuring your final output is exactly as envisioned.
 
-and many more, including code architecture, advanced react hooks and reusability 
+…and much more, including an architecturally sound codebase, advanced React hooks, and reusable components designed for scalability and maintainability.
 
 
 ## Learn More
@@ -64,6 +64,13 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/theravikr/)
+- [GitHub](https://github.com/ravikr126)
+- [Twitter](https://twitter.com/ravi14577)
+
 
 ## Deploy on Vercel
 

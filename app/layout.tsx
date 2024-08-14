@@ -11,7 +11,7 @@ const workSans = Work_Sans({ subsets: ["latin"],
 
 export const metadata: Metadata = {
   title: "Doodle Hub",
-  description: "A real time Doodle hub",
+  description: "A real time Doodle hubx`",
 };
 
 export default function RootLayout({
